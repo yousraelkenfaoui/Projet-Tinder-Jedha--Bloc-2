@@ -2,8 +2,49 @@
 
 # <img src="https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Tinder-Symbole.png" alt="Alt text" style="width:100px;"/>
 
-**<font color="white">Tinder</font>**, une application de rencontres en ligne et de réseautage géosocial, a été lancée en 2012 par **<font color="white">Sean Rad</font>** lors d'un hackathon à West Hollywood. Les utilisateurs de Tinder peuvent "swiper à droite" pour **<font color="white">aimer</font>** ou "swiper à gauche" pour **<font color="white">rejeter</font>** les profils d'autres utilisateurs, facilitant ainsi les **<font color="white">rencontres en ligne</font>**.
+Company's description 📇
+Tinder is an online dating and geosocial networking application. In Tinder, users "swipe right" to like or "swipe left" to dislike other users' profiles, which include their photos, a short bio, and a list of their interests.
 
-Mettons nous dans la peau du **<font color="white">département marketing de Tinder</font>**, qui cherche à comprendre ce qui suscite l'intérêt des utilisateurs les uns pour les autres, car le nombre de correspondances diminue. Ils ont mené une expérience de speed dating pour collecter des données sur les rencontres entre participants et leur **<font color="white">volonté d'accepter un deuxième rendez-vous</font>**.
+Tinder was launched by Sean Rad at a hackathon held at the Hatch Labs incubator in West Hollywood in 2012.
 
-Les données proviennent d'événements de speed dating expérimentaux entre 2002 et 2004. Chaque ligne du jeu de données représente un speed date entre deux personnes et indique si elles ont accepté d'aller à un deuxième rendez-vous ensemble. Les données comprennent également des informations démographiques, des habitudes de rencontres et des perceptions personnelles.
+As of 2021, Tinder has recorded more than 65 billion matches worldwide.
+
+Project 🚧
+The marketing team needs help on a new project. They are experiencing a decrease in the number of matches, and they are trying to find a way to understand what makes people interested into each other.
+
+They decided to run a speed dating experiment with people who had to give Tinder lots of informations about themselves that could ultimately reflect on ther dating profile on the app.
+
+Tinder then gathered the data from this experiment. Each row in the dataset represents one speed date between two people, and indicates wether each of them secretly agreed to go on a second date with the other person.
+
+Goals 🎯
+Use the dataset to understand what makes people interested into each other to go on a second date together:
+
+You may use descriptive statistics
+You may use visualisations
+Scope of this project 🖼️
+Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
+
+The dataset also includes questionnaire data gathered from participants at different points in the process. These fields include: demographics, dating habits, self-perception across key attributes, beliefs on what others find valuable in a mate, and lifestyle information. See the Speed Dating Data Key document below for details.
+
+Dataset
+
+Dataset Description
+
+Helpers 🦮
+To help you achieve this project, here are a few tips that should help youbest destinations on a map
+
+Data Exploration Ideas :
+
+What are the least desirable attributes in a male partner? Does this differ for female partners?
+How important do people think attractiveness is in potential mate selection vs. its real impact?
+Are shared interests more important than a shared racial background?
+Can people accurately predict their own perceived value in the dating market?
+In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
+Deliverable 📬
+To complete this project, your team should deliver:
+
+A notebook with:
+
+descriptive statistics
+visualisations
+captions and interpretations on how the stats and visualisations are relevant to why people agree to a second date
